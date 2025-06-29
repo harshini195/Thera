@@ -1,1 +1,2 @@
 # Thera
+Thera is a calming self-care web app designed to help users express their thoughts through journaling, track their moods, and explore mindfulness tools like breathing exercises and creative outlets. With a soft, soothing interface, Thera offers a safe and personal space for emotional reflection and mental wellness. It also features a supportive therapy chatbot that users can talk to for guidance, emotional support, or simply to vent in a non-judgmental space.
