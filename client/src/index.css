@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Westonia&display=swap');
+.breathing-container {
+  min-height: 100vh;
+  padding-top: 40px; /* Reduced space from top */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #e4f1f8;
+  position: relative;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+
+.title {
+  font-family: 'Westonia', cursive;
+  font-size: 4rem;
+  margin-bottom: 20px; /* was 40px */
+  color: #2b3a55;
+}
+
+
+.box {
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.line {
+  position: absolute;
+  background-color: #4a90e2;
+}
+
+.line.right {
+  top: 0;
+  left: 0;
+  height: 4px;
+  width: 0;
+}
+.line.down {
+  top: 0;
+  right: 0;
+  width: 4px;
+  height: 0;
+}
+.line.left {
+  bottom: 0;
+  right: 0;
+  height: 4px;
+  width: 0;
+}
+.line.up {
+  bottom: 0;
+  left: 0;
+  width: 4px;
+  height: 0;
+}
+
+/* Animations */
+.line.right.animate {
+  animation: draw-right 4s forwards;
+}
+.line.down.animate {
+  animation: draw-down 4s forwards;
+}
+.line.left.animate {
+  animation: draw-left 4s forwards;
+}
+.line.up.animate {
+  animation: draw-up 4s forwards;
+}
+
+@keyframes draw-right {
+  from { width: 0; }
+  to { width: 300px; }
+}
+@keyframes draw-down {
+  from { height: 0; }
+  to { height: 300px; }
+}
+@keyframes draw-left {
+  from { width: 0; }
+  to { width: 300px; }
+}
+@keyframes draw-up {
+  from { height: 0; }
+  to { height: 300px; }
+}
+
+/* Labels */
+.label {
+  position: absolute;
+  font-size: 1.5rem;
+  color: #555;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.label.visible {
+  opacity: 1;
+}
+
+.label.right {
+  top: -40px;
+  left: 100px;
+}
+.label.down {
+  top: 100px;
+  right: -80px;
+}
+.label.left {
+  bottom: -40px;
+  left: 100px;
+}
+.label.up {
+  bottom: 100px;
+  left: -80px;
+}
+
+/* Center content */
+.center-display {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.ready-text {
+  font-size: 2rem;
+  color: #555;
+}
+
+.cycle-button {
+  font-size: 1.2rem;
+  padding: 0; /* Remove padding to control the button size through width/height */
+  background-color: #5e70c0;
+  color: white;
+  border: none;
+  border-radius: 50%; /* Make it circular */
+  width: 100px; /* Set a fixed width for the circle */
+  height: 100px; /* Set the height equal to the width for a perfect circle */
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Center the text inside the circle */
+  cursor: pointer;
+  transition: transform 0.3s ease; /* Add smooth scaling on hover */
+}
+.done-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+
+
+/* Bottom buttons */
+.bottom-controls {
+  position: absolute;
+  bottom: 150px;
+  display: flex;
+  gap: 20px;
+}
+
+.control-button {
+  background-color: #4a90e2;
+  color: white;
+  font-size: 1.1rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.control-button.exit {
+  background-color: #ef6758;
+}
+
+/* Done section */
+.done-section {
+  font-family: 'Dancing Script', cursive;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+
+.done-text {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #2b3a55;
+  margin-bottom: 10px;
+  margin-left: 40px;
+
+}
