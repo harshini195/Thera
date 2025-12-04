@@ -1,0 +1,22 @@
+{
+  "c": {
+    "name": "Harshini",
+    "password_hash": "58e4d1c2e8c00524be79035b0b26d3efc057851959fbd0038202f9ca85b8837b",
+    "token": "58d1eca9-2982-4e4e-9e26-d4de446fc6bf"
+  },
+  "ELLIE@gmail.com": {
+    "name": "Ellie",
+    "password_hash": "090b235e9eb8f197f2dd927937222c570396d971222d9009a9189e2b6cc0a2c1",
+    "token": "c03f524c-ed18-4c8a-9e4e-2045dd91b3f8"
+  },
+  "mine@gmail.com": {
+    "name": "Harshini A",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "token": "4f0af8f8-4fcd-400c-981f-d0dd5de6b03d"
+  },
+  "1@gmail.com": {
+    "name": "ELLIE",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "token": "6c93c943-391c-4c60-b64f-c670ed1a9e4b"
+  }
+}

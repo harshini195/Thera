@@ -1,0 +1,356 @@
+{
+  "0": {
+    "1": {
+      "label": "Excited",
+      "color": "#FFA726"
+    },
+    "25": {
+      "label": "Excited",
+      "color": "#FFA726"
+    }
+  },
+  "1": {
+    "9": {
+      "label": "OOPS",
+      "color": "#00000"
+    },
+    "10": {
+      "label": "Happy",
+      "color": "#FFEB1B"
+    },
+    "18": {
+      "label": "Fearful",
+      "color": "#9575CD"
+    },
+    "13": {
+      "label": "Sad",
+      "color": "#64B5F6"
+    },
+    "5": {
+      "label": "Anxious",
+      "color": "#F8BBD0"
+    },
+    "22": {
+      "label": "Grateful",
+      "color": "#81C784"
+    },
+    "3": {
+      "label": "Stressed",
+      "color": "#C62828"
+    },
+    "15": {
+      "label": "Anxious",
+      "color": "#F8BBD0"
+    },
+    "28": {
+      "label": "Stressed",
+      "color": "#C62828"
+    }
+  },
+  "3": {
+    "21": {
+      "label": "OOPS",
+      "color": "#00000"
+    },
+    "19": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "13": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "5": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "4": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "30": {
+      "label": "Happy",
+      "color": "#FFEB1B"
+    },
+    "29": {
+      "label": "Angry",
+      "color": "#EF5350"
+    },
+    "28": {
+      "label": "Grateful",
+      "color": "#81C784"
+    },
+    "27": {
+      "label": "Fearful",
+      "color": "#9575CD"
+    },
+    "26": {
+      "label": "Stressed",
+      "color": "#C62828"
+    },
+    "10": {
+      "label": "Happy",
+      "color": "#FFEB1B"
+    },
+    "22": {
+      "label": "Tired",
+      "color": "#BDBDBD"
+    }
+  },
+  "4": {
+    "9": {
+      "label": "Sad",
+      "color": "#64B5F6"
+    },
+    "8": {
+      "label": "Sad",
+      "color": "#64B5F6"
+    },
+    "7": {
+      "label": "Angry",
+      "color": "#EF5350"
+    },
+    "6": {
+      "label": "Calm",
+      "color": "#AED581"
+    },
+    "5": {
+      "label": "Anxious",
+      "color": "#F8BBD0"
+    },
+    "4": {
+      "label": "Excited",
+      "color": "#FFA726"
+    },
+    "2": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "3": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "1": {
+      "label": "Happy",
+      "color": "#FFEB1B"
+    },
+    "10": {
+      "label": "Stressed",
+      "color": "#C62828"
+    }
+  },
+  "2": {
+    "31": {
+      "label": "Depressed",
+      "color": "#212121"
+    },
+    "24": {
+      "label": "Blahhh",
+      "color": "#8B0000"
+    },
+    "17": {
+      "label": "Anxious",
+      "color": "#F8BBD0"
+    },
+    "7": {
+      "label": "Sad",
+      "color": "#64B5F6"
+    },
+    "10": {
+      "label": "Tired",
+      "color": "#BDBDBD"
+    }
+  },
+  "mine@gmail.com": {
+    "1": {
+      "10": {
+        "label": "Calm",
+        "color": "#AED581"
+      },
+      "20": {
+        "label": "Stressed",
+        "color": "#C62828"
+      },
+      "6": {
+        "label": "Happy :)",
+        "color": "#FFEB1B"
+      },
+      "1": {
+        "label": "Angry >:(",
+        "color": "#EF5350"
+      },
+      "25": {
+        "label": "Exciting :D",
+        "color": "#FFA726"
+      },
+      "13": {
+        "label": "Calm ^_^",
+        "color": "#AED581"
+      }
+    },
+    "3": {
+      "18": {
+        "label": "Blahhh",
+        "color": "#8B0000"
+      },
+      "7": {
+        "label": "Happy",
+        "color": "#FFEB1B"
+      },
+      "8": {
+        "label": "Whoops forgot o_O",
+        "color": "#00000"
+      },
+      "27": {
+        "label": "??? o_O",
+        "color": "#000000"
+      }
+    },
+    "4": {
+      "14": {
+        "label": "BEST DAY <3",
+        "color": "#D4AF37"
+      },
+      "13": {
+        "label": "Blahhh ...",
+        "color": "#8B0000"
+      },
+      "12": {
+        "label": "Sad :(",
+        "color": "#64B5F6"
+      },
+      "11": {
+        "label": "Anxious :S",
+        "color": "#F8BBD0"
+      },
+      "15": {
+        "label": "Excited :D",
+        "color": "#FFA726"
+      },
+      "17": {
+        "label": "Sad :(",
+        "color": "#64B5F6"
+      },
+      "16": {
+        "label": "Depressed T_T",
+        "color": "#212121"
+      },
+      "18": {
+        "label": "Stressed >_<",
+        "color": "#C62828"
+      },
+      "4": {
+        "label": "Blahhh ...",
+        "color": "#8B0000"
+      },
+      "21": {
+        "label": "BEST DAY <3",
+        "color": "#D4AF37"
+      },
+      "20": {
+        "label": "Anxious :S",
+        "color": "#F8BBD0"
+      }
+    },
+    "5": {
+      "24": {
+        "label": "Tired -_-",
+        "color": "#BDBDBD"
+      },
+      "5": {
+        "label": "Angry >:(",
+        "color": "#EF5350"
+      }
+    },
+    "6": {
+      "8": {
+        "label": "Sad :(",
+        "color": "#64B5F6"
+      },
+      "5": {
+        "label": "Depressed T_T",
+        "color": "#212121"
+      },
+      "15": {
+        "label": "Stressed >_<",
+        "color": "#C62828"
+      },
+      "16": {
+        "label": "Exciting :D",
+        "color": "#FFA726"
+      }
+    },
+    "0": {
+      "1": {
+        "label": "Anxious :S",
+        "color": "#F8BBD0"
+      }
+    },
+    "2": {
+      "1": {
+        "label": "Happy :)",
+        "color": "#FFEB1B"
+      },
+      "27": {
+        "label": "Bored :|",
+        "color": "#A58F7C"
+      }
+    },
+    "7": {
+      "25": {
+        "label": "Sad :(",
+        "color": "#64B5F6"
+      },
+      "27": {
+        "label": "Calm ^_^",
+        "color": "#AED581"
+      },
+      "26": {
+        "label": "Depressed T_T",
+        "color": "#212121"
+      }
+    }
+  },
+  "1@gmail.com": {
+    "4": {
+      "13": {
+        "label": "Anxious",
+        "color": "#F8BBD0"
+      },
+      "14": {
+        "label": "Angry",
+        "color": "#EF5350"
+      }
+    },
+    "3": {
+      "10": {
+        "label": "Sad",
+        "color": "#64B5F6"
+      }
+    },
+    "2": {
+      "17": {
+        "label": "Tired",
+        "color": "#BDBDBD"
+      }
+    },
+    "1": {
+      "25": {
+        "label": "...",
+        "color": "#00000"
+      },
+      "11": {
+        "label": "Angry",
+        "color": "#EF5350"
+      }
+    }
+  },
+  "h@cmrit.ac.in": {
+    "1": {
+      "16": {
+        "label": "Tired -_-",
+        "color": "#BDBDBD"
+      }
+    }
+  }
+}
